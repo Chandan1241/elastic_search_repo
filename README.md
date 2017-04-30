@@ -1,5 +1,7 @@
 # elastic_search_repo
-Spring Boot with Elastic search
+Spring Boot Elasticsearch with Swagger.
+
+Configured Docker image as well.
 
 Run Spring boot application
 
